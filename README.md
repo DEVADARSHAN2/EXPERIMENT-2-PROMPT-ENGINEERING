@@ -9,15 +9,15 @@ Analyze the quality, accuracy, and depth of the generated responses.
 
 
 ## Algorithm:
-1.Identify different prompt styles – Broad, Basic, Refined.
+1. Identify different prompt styles – Broad, Basic, Refined.
 
-2.Select test scenarios – Automated Test Script Generation, Bug Identification, Performance Test Planning.
+2. Select test scenarios – Automated Test Script Generation, Bug Identification, Performance Test Planning.
 
-3.Apply each prompt type to all scenarios.
+3. Apply each prompt type to all scenarios.
 
-4.Record and document AI responses.
+4. Record and document AI responses.
 
-5.Evaluate based on clarity, accuracy, depth, and relevance.
+5. Evaluate based on clarity, accuracy, depth, and relevance.
 
 6.Compare and analyze which prompting style performs best.
 
