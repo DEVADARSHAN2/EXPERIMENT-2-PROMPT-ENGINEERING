@@ -23,7 +23,7 @@ Analyze the quality, accuracy, and depth of the generated responses.
 
 7. Analyze Findings – Identify which prompting style is most effective for each task.
 ## Output
-##### Scenario 1: Automated Test Script Generation
+#### Scenario 1: Automated Test Script Generation
 
 Broad Prompt: “Generate a test script for login.”
 
@@ -43,7 +43,7 @@ Output: Detailed script covering positive/negative cases and validations.
 
 Evaluation: High clarity, accuracy, and depth.
 
-##### Scenario 2: Bug Identification in Test Cases
+#### Scenario 2: Bug Identification in Test Cases
 
 Broad Prompt: “Check this test case for bugs.”
 
@@ -63,7 +63,7 @@ Output: Comprehensive with specific vulnerabilities.
 
 Evaluation: High-quality and actionable.
 
-##### Scenario 3: Performance Test Planning
+#### Scenario 3: Performance Test Planning
 
 Broad Prompt: “Write a performance test plan.”
 
@@ -83,7 +83,7 @@ Output: Specific plan with metrics, timing, and contingencies.
 
 Evaluation: High clarity, accuracy, and relevance.
 
-#### Analysis
+### Analysis
 
 Broad prompts → Vague, generic, and shallow results.
 
@@ -91,7 +91,7 @@ Basic prompts → Useful but incomplete; limited detail.
 
 Refined prompts → Superior quality, covering edge cases, validations, and depth.
 
-#### Conclusion
+### Conclusion
 
 This experiment confirms that prompt structure directly affects AI response quality.
 
