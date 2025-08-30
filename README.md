@@ -20,6 +20,7 @@ Analyze the quality, accuracy, and depth of the generated responses.
 5.Evaluate based on clarity, accuracy, depth, and relevance.
 
 6.Compare and analyze which prompting style performs best.
+
 7. Analyze Findings – Identify which prompting style is most effective for each task.
 ## Output
 #### Scenario 1: Automated Test Script Generation
